@@ -1,4 +1,4 @@
-import path from 'node:path';
+import path from 'path';
 import {v4 as uuidv4} from 'uuid';
 import tempDirectory from 'temp-dir';
 
